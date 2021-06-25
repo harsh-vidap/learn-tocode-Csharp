@@ -1,5 +1,7 @@
 "# learn-tocode-Csharp" 
 1. Wrote a Hello World Program
 2. Uploading the program to Git & tired Version control
+3. Tring Git commands on the current txt file.
+
 
 
