@@ -1,0 +1,3 @@
+Hello Harsha,
+This file was created so that the Github can stop tracking it and you can understand the basic 
+functionality of Git Command rm.
